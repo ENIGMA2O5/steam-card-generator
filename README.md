@@ -10,6 +10,6 @@ py -3 -m pip install pathlib
 
 py -3 -m pip install colorama
 
-ENIGMA#0420
+made by ENIGMA#0420
 
 1) Discord server:  https://discord.gg/fBwanttf7Z
